@@ -1,0 +1,17 @@
+Vladimir Bardadom
+1807132
+Statement of Compliance
+
+Requirement 1 Main Window Content -- Fully implemented, working and tested
+
+Requirement 2 Closing the System -- Fully implemented, working and tested
+
+Requirement 3 Personal Diary -- Fully implemented, working and tested
+
+Requirement 4 Appointments -- Fully implemented, working and tested
+
+Requirement 5 Saving appointments to a text File -- Fully implemented, working and tested
+
+Requirement 6 Loading appointments from a text File -- Fully implemented, working and tested
+
+Requirement 7 Search for appointments -- Fully implemented, working and tested
